@@ -32,6 +32,9 @@
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Praveenkumarj27&show_icons=true&count_private=true&theme=vue" alt="Praveenkumarj27"/>
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenkumarj27&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Praveenkumarj27&show_icons=true&count_private=true&theme=minimal" alt="Praveenkumarj27"/>
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenkumarj27&theme=minimal" />
 </p>
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=minimal)
