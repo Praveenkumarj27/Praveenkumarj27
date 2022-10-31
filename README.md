@@ -30,11 +30,14 @@
 	<img src="https://activity-graph.herokuapp.com/graph?username=Praveenkumarj27&theme=minimal"/>
 </p>
 
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveenkumarj27&theme=minimal"/>
+</p>
+
 ## 📟 GitHub Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Praveenkumarj27&show_icons=true&count_private=true&theme=minimal" alt="Praveenkumarj27"/>
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenkumarj27&theme=minimal" />
 </p>
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=minimal)
