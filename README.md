@@ -7,13 +7,13 @@
 
 
 
-🔭 I’m currently working on **Fullstack Projects**
+- 🔭 I’m currently working on **Fullstack Projects**
 
-🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **MERN Stack Development**
 
-👨‍💻 All of my projects are available at [https://praveenj-portfolio.netlify.app/](https://praveenj-portfolio.netlify.app/)
+- 👨‍💻  All of my projects are available at [https://praveenj-portfolio.netlify.app/](https://praveenj-portfolio.netlify.app/)
 
-📫 How to reach me **jpraveenkumar263@gmail.com**
+- 📫 How to reach me **jpraveenkumar263@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
