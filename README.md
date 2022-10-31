@@ -29,3 +29,9 @@
 <p align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=Praveenkumarj27&theme=minimal"/>
 </p>
+
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Praveenkumarj27&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenkumarj27&theme=vue" />
+</p>
