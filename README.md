@@ -27,7 +27,7 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=Praveenkumarj27&theme=vue"/>
+	<img src="https://activity-graph.herokuapp.com/graph?username=Praveenkumarj27&theme=minimal"/>
 </p>
 
 ## 📟 GitHub Stats
