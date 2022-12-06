@@ -7,9 +7,11 @@
 
 
 
-- 🔭 I’m currently working on **Fullstack Projects**
+- 🔭 I’m currently looking for new opportunities
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 👯 I’m looking to collaborate on Full-stack projects
+
+- 💬 Ask me about Full-stack development
 
 - 👨‍💻  All of my projects are available at [https://praveenj-portfolio.netlify.app/](https://praveenj-portfolio.netlify.app/)
 
