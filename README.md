@@ -29,8 +29,9 @@
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Praveenkumarj27&show_icons=true&count_private=true&theme=minimal" alt="Praveenkumarj27"/>
-	<img width="48%" height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumarj27&layout=compact&theme=minimal" />
+	
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenkumarj27&show_icons=true&include_all_commits=true&theme=minimal&hide_border=true" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumarj27&layout=compact&theme=minimal" />
 </p>
 
 
