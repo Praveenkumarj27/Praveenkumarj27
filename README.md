@@ -30,8 +30,8 @@
 ## 📟 GitHub Stats
 <p align="center">
 	
-	 <a href="https://github.com/praveenkumarj27/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenkumarj27&show_icons=true&include_all_commits=true&theme=minimal&hide_border=true" /></a>
-	 <a href="https://github.com/praveenkumarj27/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumarj27&layout=compact&theme=minimal" /></a>
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Praveenkumarj27&show_icons=true&count_private=true&theme=minimal" alt="Praveenkumarj27"/>
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenkumarj27&theme=minimal" />
 </p>
 
 
