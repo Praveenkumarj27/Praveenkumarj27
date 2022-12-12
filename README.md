@@ -30,7 +30,9 @@
 ## 📟 GitHub Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Praveenkumarj27&show_icons=true&count_private=true&theme=minimal" alt="Praveenkumarj27"/>
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenkumarj27&theme=minimal" />	
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenkumarj27&theme=minimal" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy"/>
 </p>
+
 
 
